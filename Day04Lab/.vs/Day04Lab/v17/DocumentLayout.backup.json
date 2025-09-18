@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HungQuang\\Documents\\LTW\\Day04Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC6DE7-D777-4271-B5F0-BE61283A6FFD}|Day04Lab\\Day04Lab.csproj|c:\\users\\hungquang\\documents\\ltw\\day04lab\\day04lab\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DAC6DE7-D777-4271-B5F0-BE61283A6FFD}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC6DE7-D777-4271-B5F0-BE61283A6FFD}|Day04Lab\\Day04Lab.csproj|c:\\users\\hungquang\\documents\\ltw\\day04lab\\day04lab\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DAC6DE7-D777-4271-B5F0-BE61283A6FFD}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\LTW\\Day04Lab\\Day04Lab\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\LTW\\Day04Lab\\Day04Lab\\Views\\Shared\\_Navbar.cshtml*",
+              "RelativeToolTip": "Day04Lab\\Views\\Shared\\_Navbar.cshtml*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T16:07:01.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\LTW\\Day04Lab\\Day04Lab\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\LTW\\Day04Lab\\Day04Lab\\Views\\Shared\\_Sidebar.cshtml*",
+              "RelativeToolTip": "Day04Lab\\Views\\Shared\\_Sidebar.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T16:02:19.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
