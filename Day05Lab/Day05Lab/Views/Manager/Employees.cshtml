@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "Employees";
+}
+
+@model IEnumerable<Day05Lab.Models.Employee>;
+
+<div>
+    <h1>Employee</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>Salary</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                var employees = Model;
+            }
+            @foreach(var e in employees)
+            {
+                <tr>
+                    <td>@e.id</td>
+                    <td>@e.name</td>
+                    <td>@(e.gender == 0 ? "Female" : "Male")</td>
+                    <td>@e.phone</td>
+                    <td>@e.email</td>
+                    <td>@e.salary</td>
+                    <td class="@e.status.ToString()">@e.status</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    .table-container {
+        font-family: 'Times New Roman', sans-serif;
+        background: #ccc;
+        padding: 20px;
+    }
+    .table-container h1{
+        font-weight: 200;
+    }
+    table{
+        width: 100%;
+        border-collapse: collapse;
+        background: #fff;
+    }
+    thead{
+        background: #333;
+        color: #fff;
+
+    }
+    th, td{
+        padding: 12px 15px;
+        border: 1px solid #ddd;
+        text-align: left;
+        font-size: 14px;
+    }
+    th{
+        text-transform: uppercase;
+        font-size: 13px;
+
+    }
+    .Active{
+        color: green;
+        font-weight: bold;
+    }
+    .Inactive{
+        color: red;
+        font-weight: bold;
+    }
+</style>
