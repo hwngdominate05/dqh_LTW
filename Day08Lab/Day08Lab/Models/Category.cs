@@ -13,10 +13,10 @@ namespace Day08Lab.Models
         [Required(ErrorMessage = "Tên danh mục không được để trống")]
         [StringLength(100)]
         [Column(TypeName = "nvarchar(100)")]
-        public string Name { get; set; }
+        public string? Name { get; set; }
         [Column(TypeName = "tinyint")]
         public byte Status {  get; set; }
         public DateTime CreateDate {  get; set; }
-        public ICollection<Product> Products { get; set; }
+        public ICollection<Product>? Products { get; set; }
     }
 }

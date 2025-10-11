@@ -156,30 +156,30 @@ namespace Day08Lab.Controllers
             return _context.Categories.Any(e => e.Id == id);
         }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Product product)
-        {
-            if (ModelState.IsValid)
-            {
-                var files = HttpContext.Request.Form.Files;
-                if (files.Count > 0 && files[0].Length > 0)
-                {
-                    var file = files[0];
-                    var FileName = file.FileName;
-                    var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Product", FileName);
-                    using (var stream = new FileStream(path, FileMode.Create))
-                    {
-                        file.CopyTo(stream);
-                        product.Image = FileName;
-                    }
-                }
-                _context.Add(product);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
-            return View(product);
-        }
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public async Task<IActionResult> Create(Product product)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        var files = HttpContext.Request.Form.Files;
+        //        if (files.Count > 0 && files[0].Length > 0)
+        //        {
+        //            var file = files[0];
+        //            var FileName = file.FileName;
+        //            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Product", FileName);
+        //            using (var stream = new FileStream(path, FileMode.Create))
+        //            {
+        //                file.CopyTo(stream);
+        //                product.Image = FileName;
+        //            }
+        //        }
+        //        _context.Add(product);
+        //        await _context.SaveChangesAsync();
+        //        return RedirectToAction(nameof(Index));
+        //    }
+        //    ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
+        //    return View(product);
+        //}
     }
 }
