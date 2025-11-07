@@ -1,0 +1,11 @@
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.csproj.AssemblyReference.cache
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.Form1.resources
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.Properties.Resources.resources
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.csproj.GenerateResource.cache
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.csproj.CoreCompileInputs.cache
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\bin\Debug\Dqh.exe.config
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\bin\Debug\Dqh.exe
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\bin\Debug\Dqh.pdb
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.exe
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.pdb
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\Dqh\Dqh\obj\Debug\Dqh.exe.config

@@ -1,0 +1,14 @@
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.csproj.AssemblyReference.cache
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.DanhMuc.frmChatLieu.resources
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.DanhMuc.frmKhachHang.resources
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.DanhMuc.frmSanPham.resources
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.Form1.resources
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.Properties.Resources.resources
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.csproj.GenerateResource.cache
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.csproj.CoreCompileInputs.cache
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\bin\Debug\BanHangLuuNiem.exe.config
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\bin\Debug\BanHangLuuNiem.exe
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\bin\Debug\BanHangLuuNiem.pdb
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.exe
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.pdb
+C:\Users\HungQuang\Documents\DH_Nam3_Ki1\LTW\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.exe.config

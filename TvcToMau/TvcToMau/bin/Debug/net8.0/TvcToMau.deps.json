@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TvcToMau/1.0.0": {
+        "runtime": {
+          "TvcToMau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TvcToMau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

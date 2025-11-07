@@ -1,0 +1,11 @@
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\bin\Debug\Baitap.exe.config
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\bin\Debug\Baitap.exe
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\bin\Debug\Baitap.pdb
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.Form1.resources
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.csproj.GenerateResource.cache
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.exe
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.pdb
+C:\Users\HungQuang\Documents\LTW\menuEx\Baitap\obj\Debug\Baitap.exe.config

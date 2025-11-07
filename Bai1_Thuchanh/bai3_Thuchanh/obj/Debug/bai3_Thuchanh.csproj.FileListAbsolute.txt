@@ -1,0 +1,11 @@
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\bin\Debug\bai3_Thuchanh.exe.config
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\bin\Debug\bai3_Thuchanh.exe
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\bin\Debug\bai3_Thuchanh.pdb
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.csproj.AssemblyReference.cache
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.Form1.resources
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.Properties.Resources.resources
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.csproj.GenerateResource.cache
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.csproj.CoreCompileInputs.cache
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.exe
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.pdb
+C:\Users\HungQuang\Documents\LTW\Bai1_Thuchanh\bai3_Thuchanh\obj\Debug\bai3_Thuchanh.exe.config
