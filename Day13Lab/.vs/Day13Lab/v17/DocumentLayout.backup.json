@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day13lab\\day13lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD2B69B-E710-4D4B-BC5A-2F39B75242FA}|Day13Lab\\Day13Lab.csproj|solutionrelative:day13lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Views\\Learner\\Create.cshtml*",
+              "RelativeToolTip": "Day13Lab\\Views\\Learner\\Create.cshtml*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T06:49:40.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Day13Lab\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T04:09:56.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Controllers\\LearnerController.cs*",
+              "RelativeToolTip": "Day13Lab\\Controllers\\LearnerController.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:08:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day13Lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T04:07:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Models\\Major.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Major.cs",
+              "RelativeToolTip": "Day13Lab\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:57:14.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Program.cs",
+              "RelativeToolTip": "Day13Lab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:29:20.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbInitalizer.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Data\\DbInitalizer.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Data\\DbInitalizer.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Data\\DbInitalizer.cs",
+              "RelativeToolTip": "Day13Lab\\Data\\DbInitalizer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:15:14.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Day13Lab\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:08:45.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Course.cs",
+              "RelativeToolTip": "Day13Lab\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:01:51.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Day13Lab\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:03:59.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\Learner.cs",
+              "RelativeToolTip": "Day13Lab\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:59:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Day13Lab\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day13Lab\\Day13Lab\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Day13Lab\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:40:26.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
