@@ -1,0 +1,26 @@
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace BTH_02.Models
+{
+    public class Student
+    {
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        public string? Email { get; set; }
+
+        public string? Password { get; set; }
+        public Branch? Branch { get; set; }
+        public Gender? Gender { get; set; }
+        public string? Address { get; set; }
+        public bool IsRegular { get; set; }
+        public DateTime DateOfBirth { get; set; }
+
+        [NotMapped] 
+        [Display(Name = "Upload Photo")]
+        public IFormFile Photo { get; set; }
+
+        public string? PhotoPath { get; set; }
+
+    }
+}
