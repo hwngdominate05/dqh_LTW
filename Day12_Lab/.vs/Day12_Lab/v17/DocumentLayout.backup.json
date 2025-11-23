@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day12_lab\\day12_lab\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|solutionrelative:day12_lab\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day12_lab\\day12_lab\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|solutionrelative:day12_lab\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day12_lab\\day12_lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|solutionrelative:day12_lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day12_lab\\day12_lab\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|solutionrelative:day12_lab\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day12_lab\\day12_lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|solutionrelative:day12_lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|c:\\users\\hungquang\\documents\\dh_nam3_ki1\\ltw\\day12_lab\\day12_lab\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD6BF9-7C13-4430-9295-ED9769A462EB}|Day12_Lab\\Day12_Lab.csproj|solutionrelative:day12_lab\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day12_Lab\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Day12_Lab\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T16:38:48.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day12_Lab\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Views\\Student\\Index.cshtml*",
+              "RelativeToolTip": "Day12_Lab\\Views\\Student\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T16:30:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Day12_Lab\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Day12_Lab\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwE4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:24:10.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Day12_Lab\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Models\\Student.cs",
+              "RelativeToolTip": "Day12_Lab\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:22:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Day12_Lab\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Models\\Branch.cs",
+              "RelativeToolTip": "Day12_Lab\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:22:09.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Day12_Lab\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\HungQuang\\Documents\\DH_Nam3_Ki1\\LTW\\Day12_Lab\\Day12_Lab\\Models\\Gender.cs",
+              "RelativeToolTip": "Day12_Lab\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:21:48.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
