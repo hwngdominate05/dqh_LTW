@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day13Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00c285edbe231bae31f99ca57cc9ff9da558bfaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f5bc2cd78cbec94d64e06ec73a56c9770aadef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day13Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day13Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
